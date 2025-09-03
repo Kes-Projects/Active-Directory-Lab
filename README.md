@@ -3,6 +3,10 @@
 ## Overview
 This project demonstrates the design and deployment of a virtualized Active Directory (AD) environment. The goal is to gain hands-on experience with centralized authentication, user and group management, and policy enforcement in a controlled lab setting.
 
+<img width="664" height="479" alt="Screenshot 2025-09-02 at 8 52 52 PM" src="https://github.com/user-attachments/assets/64ffb9ab-3c6e-4f78-977e-6732929261f8" />
+
+
+
 ## Lab Architecture
 
 - **Windows Server 2022** → Domain Controller with Active Directory, DNS, Organizational Units, and Group Policies  
